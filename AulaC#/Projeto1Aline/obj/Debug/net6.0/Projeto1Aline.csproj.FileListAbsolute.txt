@@ -1,0 +1,15 @@
+C:\Users\msft02\AulaC#\Projeto1Aline\bin\Debug\net6.0\Projeto1Aline.exe
+c:\Users\msft02\AulaC#\Projeto1Aline\bin\Debug\net6.0\Projeto1Aline.deps.json
+c:\Users\msft02\AulaC#\Projeto1Aline\bin\Debug\net6.0\Projeto1Aline.runtimeconfig.json
+C:\Users\msft02\AulaC#\Projeto1Aline\bin\Debug\net6.0\Projeto1Aline.dll
+C:\Users\msft02\AulaC#\Projeto1Aline\bin\Debug\net6.0\Projeto1Aline.pdb
+C:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\Projeto1Aline.csproj.AssemblyReference.cache
+C:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\Projeto1Aline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\Projeto1Aline.AssemblyInfoInputs.cache
+C:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\Projeto1Aline.AssemblyInfo.cs
+C:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\Projeto1Aline.csproj.CoreCompileInputs.cache
+C:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\Projeto1Aline.dll
+C:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\refint\Projeto1Aline.dll
+C:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\Projeto1Aline.pdb
+c:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\Projeto1Aline.genruntimeconfig.cache
+c:\Users\msft02\AulaC#\Projeto1Aline\obj\Debug\net6.0\ref\Projeto1Aline.dll
